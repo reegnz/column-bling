@@ -14,7 +14,7 @@ builds:
       - darwin
     goarch:
       - amd64
-    dir: ./cmd/column-bling
+    dir: .
 
 archives:
   - replacements:
